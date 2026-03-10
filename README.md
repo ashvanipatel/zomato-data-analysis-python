@@ -71,7 +71,7 @@ This boxplot compares ratings of restaurants that allow online ordering vs those
 ---
 
 ## 6️⃣ Cost Distribution
-![Cost Distribution](images/cost_distribution.png)
+![Cost Distribution](images/cost_distribution_two_people.png)
 
 This chart shows the approximate cost for two people across restaurants.
 
