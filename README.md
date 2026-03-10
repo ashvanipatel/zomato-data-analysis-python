@@ -64,7 +64,7 @@ This graph shows which restaurant types receive the most votes from customers.
 ---
 
 ## 5️⃣ Rating vs Online Order
-![Rating vs Online](images/rating_vs_online.png)
+![Rating vs Online](images/rating_vs_online_order.png)
 
 This boxplot compares ratings of restaurants that allow online ordering vs those that do not.
 
