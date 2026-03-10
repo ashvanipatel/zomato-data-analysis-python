@@ -36,7 +36,7 @@ Features include:
 # 📈 Data Visualizations
 
 ## 1️⃣ Restaurant Type Distribution
-![Restaurant Type](images/restaurant_type.png)
+![Restaurant Type]("C:\Users\avnee\Pictures\Screenshots\Screenshot 2026-03-11 011138.png")
 
 This graph shows how many restaurants belong to each category such as Buffet, Cafes, Dining, and Others.
 
