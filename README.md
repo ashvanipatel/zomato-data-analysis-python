@@ -36,14 +36,14 @@ Features include:
 # 📈 Data Visualizations
 
 ## 1️⃣ Restaurant Type Distribution
-![Restaurant Type]("C:\Users\avnee\Pictures\Screenshots\Screenshot 2026-03-11 011138.png")
+![Restaurant Type](images/restaurant_type_distribution.png)
 
 This graph shows how many restaurants belong to each category such as Buffet, Cafes, Dining, and Others.
 
 ---
 
 ## 2️⃣ Online Order Availability
-![Online Order](images/online_order.png)
+![Online Order](images/online_order_availability.png)
 
 This chart shows how many restaurants provide online ordering services.
 
@@ -57,7 +57,7 @@ This histogram shows the distribution of restaurant ratings.
 ---
 
 ## 4️⃣ Votes by Restaurant Type
-![Votes](images/votes_by_type.png)
+![Votes](images/votes_by_restaurant_type.png)
 
 This graph shows which restaurant types receive the most votes from customers.
 
@@ -85,14 +85,14 @@ This scatter plot shows the relationship between restaurant cost and ratings.
 ---
 
 ## 8️⃣ Top 10 Restaurants by Votes
-![Top Restaurants](images/top_restaurants.png)
+![Top Restaurants](images/top_10_restaurants_votes.png)
 
 This visualization highlights the most popular restaurants based on customer votes.
 
 ---
 
 ## 9️⃣ Restaurant Type vs Online Order Heatmap
-![Heatmap](images/type_vs_online_heatmap.png)
+![Heatmap](images/restaurant_type_vs_online_order_heatmap.png)
 
 This heatmap shows the relationship between restaurant types and online ordering availability.
 
